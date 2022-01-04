@@ -1,0 +1,6 @@
+const TRANSACTION_TYPE = Object.freeze({
+  DEPOSIT: "DEPOSIT",
+  WITHDRAWAL: "WITHDRAWAL",
+});
+
+export default TRANSACTION_TYPE;
